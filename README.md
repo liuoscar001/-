@@ -2,7 +2,7 @@
 中文文章分词统计：
 
 作用：把文章进行词语分解并按照词语出现频率进行排序并统计
-模块：需安装jieba模块，方法：pip install jieba
+模块：docx，jieba模块，方法：pip install jieba/docx
 其他：使用tkinter模块实现GUI图形化
 
 ##################################
